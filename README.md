@@ -1,5 +1,4 @@
-# Frontend-Web-jQuery-React.js-JavaScript-HTML-CSS-Websites-with-HTML
-## Websites with HTML
+## HTML-Learnings
 
 ### HTML Fundamentals
 Learn the primary building block of web development: HTML. Get a firm understanding of how HTML markup becomes web pages with images, text, and lists.
